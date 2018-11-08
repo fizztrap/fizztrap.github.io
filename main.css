@@ -1,4 +1,8 @@
 .intro {
   font-family: "Roboto";
-  font-size: 5vw
+  font-size: 3vw
 }
+
+ body {
+   background-color: #e0ebeb;
+ }
